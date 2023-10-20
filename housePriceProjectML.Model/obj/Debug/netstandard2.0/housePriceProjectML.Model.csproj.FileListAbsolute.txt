@@ -1,0 +1,11 @@
+C:\Users\omgen\OneDrive\Masaüstü\Staj\housePriceProject\housePriceProjectML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\omgen\OneDrive\Masaüstü\Staj\housePriceProject\housePriceProjectML.Model\bin\Debug\netstandard2.0\housePriceProjectML.Model.deps.json
+C:\Users\omgen\OneDrive\Masaüstü\Staj\housePriceProject\housePriceProjectML.Model\bin\Debug\netstandard2.0\housePriceProjectML.Model.dll
+C:\Users\omgen\OneDrive\Masaüstü\Staj\housePriceProject\housePriceProjectML.Model\bin\Debug\netstandard2.0\housePriceProjectML.Model.pdb
+C:\Users\omgen\OneDrive\Masaüstü\Staj\housePriceProject\housePriceProjectML.Model\obj\Debug\netstandard2.0\housePriceProjectML.Model.csproj.AssemblyReference.cache
+C:\Users\omgen\OneDrive\Masaüstü\Staj\housePriceProject\housePriceProjectML.Model\obj\Debug\netstandard2.0\housePriceProjectML.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omgen\OneDrive\Masaüstü\Staj\housePriceProject\housePriceProjectML.Model\obj\Debug\netstandard2.0\housePriceProjectML.Model.AssemblyInfoInputs.cache
+C:\Users\omgen\OneDrive\Masaüstü\Staj\housePriceProject\housePriceProjectML.Model\obj\Debug\netstandard2.0\housePriceProjectML.Model.AssemblyInfo.cs
+C:\Users\omgen\OneDrive\Masaüstü\Staj\housePriceProject\housePriceProjectML.Model\obj\Debug\netstandard2.0\housePriceProjectML.Model.csproj.CoreCompileInputs.cache
+C:\Users\omgen\OneDrive\Masaüstü\Staj\housePriceProject\housePriceProjectML.Model\obj\Debug\netstandard2.0\housePriceProjectML.Model.dll
+C:\Users\omgen\OneDrive\Masaüstü\Staj\housePriceProject\housePriceProjectML.Model\obj\Debug\netstandard2.0\housePriceProjectML.Model.pdb

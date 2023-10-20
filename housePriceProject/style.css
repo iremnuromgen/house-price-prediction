@@ -1,0 +1,259 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Raleway:wght@200&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.container{
+    background: url(Images/bg1.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+}
+
+.container .navbar{
+    width: 100%;
+    height: 80px;
+    background: rgba(0, 10, 22, 0.30);
+}
+
+.navbar .logo{
+    display:inline-block;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.navbar .logo a{
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+    pointer-events: none;
+    user-select: none;
+}
+
+.container .center{
+    position: absolute;
+    top:40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container .center h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    letter-spacing: 30px;
+    color: #ffffff;
+    user-select: none;
+}
+
+.container .center h2{
+    font-family: 'Great Vibes', sans-serif;
+    font-size: 20px;
+    letter-spacing: 10px;
+    color: #ffffff;
+    margin-left: 130px;
+    margin-top: 20px;
+    user-select: none;
+}
+
+.container-two{
+    background: #ffffff;
+    height: 100vh;
+}
+
+.container-two .headerbar{
+    width: 100%;
+    height: 80px;
+    background: #ffffff;
+}
+
+.headerbar .header{
+    text-align: center;
+}
+
+.header h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    letter-spacing: 10px;
+    color: #000000;
+    display: inline-block;
+    margin-top: 30px;
+    user-select: none;
+}
+
+.center-two{
+    display:flex;
+    align-items: center;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 200px;
+}
+
+.center-image img{
+    height: 500px;
+    width: 500px;
+}
+
+.center-text{
+    margin-left: 50px;
+    text-align: center;
+}
+
+.center-text h1{
+    font-family: Calibri;
+}
+
+.center-text p{
+    display: inline-block;
+    margin-top: 20px;
+    font-family: Calibri;
+    font-size: 20px;
+}
+
+.container-three{
+    background: url(Images/third.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+    overflow: hidden;
+}
+
+.container-three .headerbar-two {
+    width: 100%;
+    height: 80px;
+}
+
+.headerbar-two .header-two h1{
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 5px;
+    font-size: 25px;
+    color: #000000;
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+.middle-box {
+    position: relative;
+    margin-left: 300px;
+    margin-top: 20px;
+    width: 1000px;
+    height: 550px;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .5);
+    border-radius: 20px;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 30px rgba(0, 0, 0, .5);
+}
+
+.middle-box .prediction-box {
+    margin-left: 60px;
+}
+
+.prediction-box .box-left{
+    margin-top: 35px;
+    width: 350px;
+}
+
+.prediction-box .box-right{
+    position: relative;
+    top: -400px;
+    margin-left: 400px;
+    width: 350px;
+}
+
+.input-box{
+    position: relative;
+    width: 100%;
+    height: 40px;
+    margin: 5px 0;
+    text-align: right;
+}
+
+.input-box label{
+    font-family: Calibri;
+    font-weight: 500;
+}
+
+.input-box-adress{
+    position: relative;
+    width: 100%;
+    height: 40px;
+    margin: 5px 0;
+    text-align: right;
+}
+
+.input-box-adress label{
+    font-family: Calibri;
+    font-weight: 500;
+    position: relative;
+    top: -35px;
+}
+
+.input-box-view label{
+    font-family: Calibri;
+    font-weight: 500;
+    position: relative;
+    margin-left: 81px;
+    top: -15px;
+}
+
+.boxView{
+    position: relative;
+    margin-left: 10px;
+    top: -14px;
+}
+
+.boxDate{
+    width: 160px;
+}
+
+.boxCountry{
+    width: 165px;
+}
+
+.boxCity{
+    width: 165px;
+}
+
+.input-box-btn{
+    position: relative;
+    text-align: right;
+}
+
+.input-box-guess{
+    text-align: center;
+    margin-top: 20px;
+    position: relative;
+    margin-left: 50px;
+}
+
+.btnGuess{
+    position: relative;
+    margin-top: 20px;
+    width: 170px;
+    height: 45px;
+    background: #162938;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1em;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.boxGuess{
+    position: relative;
+    margin-top: 30px;
+}
+
+
+
+
+
